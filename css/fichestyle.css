@@ -52,7 +52,7 @@ button {
 
 .wrapper {
   display: grid;
-  grid-template-columns: 30% 30% 30%;
+  grid-template-columns: repeat(3, 1fr);
 }
 .stud {
   border:solid 1px;

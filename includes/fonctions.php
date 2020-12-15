@@ -25,7 +25,7 @@ function listerTousLesEtudiants(){
     array("id"=> 9,"prenom"=>"De witt","nom"=>"Genthner,dgenthner8@patch.com"),
     array("id"=> 10,"prenom"=>"Ambrosi","nom"=>"Wallhead,awallhead9@samsung.com")
   );
-  $etudiants["mmi1"] = array(
+  $etudiants["mmi2"] = array(
     array("id"=> 11,"prenom"=>"Margi","nom"=>"Tarte","mail"=>"mtartea@bloglovin.com"),
     array("id"=> 12,"prenom"=>"Maryjane","nom"=>"Barron","mail"=>"mbarronb@forbes.com"),
     array("id"=> 13,"prenom"=>"Alphonso","nom"=>"Shane","mail"=>"ashanec@ucoz.com"),
